@@ -41,3 +41,10 @@ __Demonstrated Experience:__
 - SQLite
 - SQL
 - Matplotlib
+
+__Key Findings:__
+- The dataset contained approximately 80 unique prey families, demonstrating substantial dietary diversity among cetaceans and pinnipeds.
+  - The taxonomic hierarchy revealed that a relatively small number of families accounted for a large proportion of identified prey specimens.
+  - The family Myctophidae was the most frequently represented prey family within the collection, suggesting it is an important dietary component for the marine mammals represented in the dataset.
+- SQL queries and visualizations display trends in length and weight of fragments with 2015 having a noticable increase in averages for weight and length.This stability may reflect sustained ecosystem productivity and the continued availability of suitable prey resources for cetaceans and pinnipeds.
+- Outlier analysis identified records that substantially affected yearly averages, demonstrating the importance of data validation prior to interpretation.
